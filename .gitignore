@@ -221,6 +221,9 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# .png
+*.png
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
